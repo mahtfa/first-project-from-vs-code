@@ -18,5 +18,5 @@ video = aparat.uploadPost(
     descreption='',
     video_pass=False
 )
-
+print("helooooo")
 print(video)
